@@ -1,0 +1,19 @@
+# Cartão de Visita com Next.js e Tailwind CSS
+
+Este é um projeto de cartão de visita simples criado com Next.js e estilizado com o Tailwind CSS. Ele oferece uma maneira fácil de criar um cartão de visita online para compartilhar suas informações de contato e links para redes sociais.
+
+## Demonstração
+
+![Demonstração do Projeto]()
+
+## Tecnologias Utilizadas
+
+- [Next.js](https://nextjs.org/): Um framework de React para criar aplicativos da web modernos.
+- [Tailwind CSS](https://tailwindcss.com/): Um framework de CSS utilitário para desenvolvimento rápido.
+- [React Icons](https://react-icons.github.io/react-icons/): Biblioteca que fornece ícones populares para React.
+
+## Recursos
+
+- Apresente suas informações de contato.
+- Links para suas redes sociais (Instagram, LinkedIn, GitHub, etc.).
+- Facilmente personalizável para se adequar ao seu estilo.
